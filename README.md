@@ -1,12 +1,12 @@
-1. ## **Open Your Terminal** and navigate to your project directory:
+## 1. *Open Your Terminal* and navigate to your project directory:
    ```bash
      cd path/to/your/project
-    ```
-2. ## **Create the README.md** File (if it doesn't exist):
+   ```
+## 2. *Create the README.md* File (if it doesn't exist):
    ```bash
    echo "# Startup Funding Analysis Dashboard" > README.md
    ```
-3. ## **Open README.md** in your text editor and paste the following content:
+## 3. *Open README.md* in your text editor and paste the following content:
    
 # 📊 Startup Funding Analysis Dashboard
 
@@ -81,17 +81,17 @@ startup-funding-analysis/
 - Pie charts for sector investment distribution
 
 ### 💡 Usage
-1. Overall Analysis: Displays a summary of the entire dataset.
-2. Startup Details: View specific details about any startup from the dataset.
-3. Investor Details: Explore the investment history of individual investors.
+- Overall Analysis: Displays a summary of the entire dataset.
+- Startup Details: View specific details about any startup from the dataset.
+- Investor Details: Explore the investment history of individual investors.
 
-4. ## **Save the File** and return to your terminal.
-5. ## **Add and Commit the README.md File:**
+## 4. *Save the File* and return to your terminal.
+## 5. *Add and Commit* the README.md File:
    ```bash
    git add README.md
    git commit -m "Add project README"
    ```
-6. ## Push the Changes to GitHub:
+## 6. Push the Changes to GitHub:
    ```bash
    git push origin main
    ```
