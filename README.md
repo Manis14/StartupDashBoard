@@ -1,13 +1,13 @@
-1. # **Open Your Terminal** and navigate to your project directory:
+1. ## **Open Your Terminal** and navigate to your project directory:
    ```bash
      cd path/to/your/project
     ```
-2. # **Create the README.md** File (if it doesn't exist):
+2. ## **Create the README.md** File (if it doesn't exist):
    ```bash
    echo "# Startup Funding Analysis Dashboard" > README.md
    ```
-3. # **Open README.md** in your text editor and paste the following content:
-4. 
+3. ## **Open README.md** in your text editor and paste the following content:
+   
 # 📊 Startup Funding Analysis Dashboard
 
 Welcome to the **Startup Funding Analysis** dashboard, a Streamlit application that provides a comprehensive analysis of startup funding trends using a dataset of startup investments in India. This project leverages the power of Streamlit and Plotly to deliver an interactive experience for exploring funding data.
