@@ -96,3 +96,9 @@ startup-funding-analysis/
    git push origin main
    ```
 
+   ## -----View Of DashBoard------
+   
+https://github.com/user-attachments/assets/6b3a7f85-ee86-4b11-97e7-094524293aae
+
+
+
