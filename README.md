@@ -33,6 +33,29 @@ Ensure you have Python installed. This project uses:
 - `pandas`
 - `plotly`
 
-Install the dependencies using:
+### Install the dependencies using:
 ```bash
 pip install streamlit pandas plotly
+```
+### Running the App
+Clone the repository and navigate to the project directory:
+```bash
+git clone https://github.com/your-username/startup-funding-analysis.git
+cd startup-funding-analysis
+```
+### Run the Streamlit app:
+```bash
+streamlit run app.py
+```
+### Dataset
+The app uses a dataset **startup_cleaned.csv**. Ensure the dataset is in the root directory of the project. The dataset includes:
+- Date
+- Startup name
+- Investors
+- Funding amount
+- City, industry, and other related information
+
+
+## 📦 File Structure
+
+  
