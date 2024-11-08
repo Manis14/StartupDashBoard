@@ -1,3 +1,6 @@
+https://startupdashboard-pgtvummrosvqvpsmgwm3bq.streamlit.app/ 
+
+
 ## 1. *Open Your Terminal* and navigate to your project directory:
    ```bash
      cd path/to/your/project
@@ -96,7 +99,7 @@ startup-funding-analysis/
    git push origin main
    ```
 
-   ## -----View Of DashBoard------
+   ## -----Screensort------
    
 https://github.com/user-attachments/assets/6b3a7f85-ee86-4b11-97e7-094524293aae
 
